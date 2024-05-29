@@ -1,0 +1,12 @@
+[project]
+name = "flask-session-issue"
+version = "1.0.0"
+description = ""
+requires-python = ">=3.12"
+dependencies = [
+    "flask-session[sqlalchemy]~=0.8.0"
+]
+
+[build-system]
+requires = ["flit_core<4"]
+build-backend = "flit_core.buildapi"
