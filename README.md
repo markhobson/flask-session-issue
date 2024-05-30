@@ -1,5 +1,7 @@
 # Flask-Session issue
 
+See: https://github.com/pallets-eco/flask-session/issues/251
+
 To reproduce:
 
 1. `python3 -m venv .venv`
